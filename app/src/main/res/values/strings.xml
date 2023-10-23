@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="Entre_amount">Entre Amount</string>
+    <string name="rs_to">RS to $</string>
+    <string name="to_rs">$ TO RS</string>
+    <string name="converted_amount"><![CDATA[CONVERTED AMOUNT ->]]></string>
+</resources>
